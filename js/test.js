@@ -1,4 +1,5 @@
 document.getElementById('loginBtn').onclick = logBtn;
+
 function logBtn() {
     let user = document.getElementById('username').value;
     let pass = document.getElementById('password').value;
